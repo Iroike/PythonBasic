@@ -1,2 +1,2 @@
 # PythonBasic
-Programs basic on Pyhton to learn
+Pyhton Programs to learn
